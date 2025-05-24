@@ -128,9 +128,6 @@ void TambahAkhirAssignment(string nama_mka, string hari_mka, int jmlh_sks_mka, i
     }
 }
 
-
-
-
 int main()
 {
     int pilmenu;
